@@ -87,3 +87,8 @@ header
         font-size: 46pt;
     }    
 }
+
+.expandir
+{
+    flex-grow: 1;
+}
