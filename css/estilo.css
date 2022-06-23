@@ -92,3 +92,31 @@ header
 {
     flex-grow: 1;
 }
+
+select
+{
+    font-size: 12pt;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: rgb(0,0,0);
+    color: white;
+    border: 1px solid white;
+    border-radius: 2px;
+    line-height: 1.3rem;
+}
+
+option
+{
+    background: rgb(123, 123, 123);
+    color: white;
+    padding-top: 50px;
+
+}
+.idioma
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
